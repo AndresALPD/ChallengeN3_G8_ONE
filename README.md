@@ -29,6 +29,7 @@ Este es un proyecto desarrollado como parte del **Programa Oracle Next Education
 
 ## ⚙️ Estructura del proyecto
 
+```
 literalura/
 ├── src/
 │ └── main/
@@ -44,6 +45,7 @@ literalura/
 │
 └── resources/
 ├── application.properties → Configuración de base de datos PostgreSQL
+```
 
 ---
 
